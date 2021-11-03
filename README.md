@@ -1,7 +1,8 @@
 # color [![Build Status](https://travis-ci.org/Qix-/color.svg?branch=master)](https://travis-ci.org/Qix-/color)
 
-> FORK from original https://www.npmjs.com/package/color because they use some late Javascript syntax
+> CardinalBlue fork from original https://www.npmjs.com/package/color because they use some late Javascript syntax
 > which interferes with Storybook and other things.
+---------------
 
 > JavaScript library for immutable color conversion and manipulation with support for CSS color strings.
 
