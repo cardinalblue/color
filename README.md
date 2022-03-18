@@ -1,4 +1,4 @@
-# color [![Build Status](https://travis-ci.org/Qix-/color.svg?branch=master)](https://travis-ci.org/Qix-/color)
+# color
 
 > CardinalBlue fork from original https://www.npmjs.com/package/color because they use some late Javascript syntax
 > which interferes with Storybook and other things.
